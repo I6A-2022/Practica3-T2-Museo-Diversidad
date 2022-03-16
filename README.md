@@ -3,4 +3,4 @@
 Integrantes:
 - Esther
 - Agustín Ollín
-- Bryan Luis
+- Bryan Luis Pineda
