@@ -284,12 +284,12 @@ ul.nav li.active a:before {
 	height: 650px;
 }
 #home-carousel .item:before {
-	background-color: #000;
+	background: radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);
 	content: "";
 	height: 100%;
 	top: 0;
 	left: 0;
-	opacity: 0.5;
+	opacity: 0.7;
 	position: absolute;
 	width: 100%;
 }
@@ -421,7 +421,7 @@ ul.nav li.active a:before {
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
-	background:#e73131;
+	background:radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);
 	margin-top:10px;
 	padding: 1% 0%;
 }
