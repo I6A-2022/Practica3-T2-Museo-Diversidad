@@ -101,15 +101,18 @@ color: #FFF;
 	z-index: 9999;
 }
 #pre-status, .preload-placeholder {
-	background-image:url(../preloader.gif);
+	/*background-image:url(../preloader.gif);*/
+	background-image:url(../gift/giphy1.gif);
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 296px;
+	/*height: 296px;*/
+	height: 300px;
 	left: 38%;
 	margin: -20px 0 0 -20px;
 	position: absolute;
 	top: 32%;
-	width: 296px;
+	/*width: 296px;*/
+	width: 300px;
 }
 .preload-placeholder {
 	background: none;
