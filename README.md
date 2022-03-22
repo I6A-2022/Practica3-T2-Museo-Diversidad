@@ -5,7 +5,7 @@
 <html>
 
 <h5>Herramientas utilizadas en el proyecto</h5>
-<body>
+
 <table>
         <thead>
             <tr>
@@ -27,7 +27,7 @@
         </thead>
 </table>
 <h1>Integrantes</h1>
-    <table>
+<table>
         <thead>
             <tr>
                 <th> Agustin Ollin</th>
@@ -37,12 +37,13 @@
         </thead>
         <tbody>
             <tr>
-                <td align="center"><a href="https://github.com/agustin-ollin"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"> <br> <sub>@agustin-ollin</sub></a> <br> </br> <h>N/C:L99227822</h> </td>
+                <td align="center"><a href="https://github.com/agustin-ollin"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@agustin-ollin</sub></a> <br> </br> <h>N/C:L99227822</h> </td>
                 <td align="center"><a href="https://github.com/EstherAtiny"><img src="https://avatars.githubusercontent.com/u/98972201?v=4" width="115" style="max-width: 100%;"><br><sub>@EstherAtiny</sub></a><br></br><h>N/C:19920168</h> </td>
-                <td align="center"><a href="https://github.com/Bryanluis20><br><sub>@Bryanluis20</sub></a><br></br><h>N/C:19920162</h> </td>
-            </tr>
-        </tbody>
-    </table>
+                <td align="center"><a href="https://github.com/Bryanluis20"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@Bryanluis20</sub></a> <br> </br> <h>N/C:19920162</h> </td>       
+ 
+</tr>
+</tbody>
+</table>
 
 <h2>Instructor</h2>
     <table>
@@ -57,5 +58,4 @@
             </tr>
         </tbody>
     </table>
-</body>
 </html>
