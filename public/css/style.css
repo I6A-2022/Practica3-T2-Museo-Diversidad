@@ -270,7 +270,8 @@ ul.nav li.active a:before {
 }
 .on {
 	/*background:rgba(0, 0, 0, 0.8);*/
-	background: radial-gradient(circle, rgba(63,94,251,0.3) 28%, rgba(252,70,107,1) 80%);
+	/*background: radial-gradient(circle, rgba(63,94,251,0.3) 28%, rgba(252,70,107,1) 80%);*/
+
 	transition:all 0.3s;
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -286,8 +287,9 @@ ul.nav li.active a:before {
 	height: 650px;
 }
 #home-carousel .item:before {
-	background: radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);
+	/*background: radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);*/
 	/*background: radial-gradient(circle, rgba(0,2,36,0.8575805322128851) 26%, rgba(255,21,0,0.8323704481792717) 100%);*/
+	background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
 	content: "";
 	height: 100%;
 	top: 0;
