@@ -289,7 +289,9 @@ ul.nav li.active a:before {
 #home-carousel .item:before {
 	/*background: radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);*/
 	/*background: radial-gradient(circle, rgba(0,2,36,0.8575805322128851) 26%, rgba(255,21,0,0.8323704481792717) 100%);*/
-	background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+	/*background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);*/
+	background: linear-gradient(to bottom, rgb(38, 61, 52) 0%, rgba(6, 90, 206, 0.8) 100%), radial-gradient(at top center, rgb(42, 47, 83) 0%, rgba(0,0,0,0.40) 120%) #989898;
+	background-blend-mode: multiply,multiply;
 	content: "";
 	height: 100%;
 	top: 0;
@@ -426,7 +428,8 @@ ul.nav li.active a:before {
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
-	background:radial-gradient(circle, rgba(63,94,251,1) 28%, rgba(252,70,107,1) 80%);
+	background: linear-gradient(to bottom, rgb(38, 61, 52) 0%, rgba(6, 90, 206, 0.8) 100%), radial-gradient(at top center, rgb(42, 47, 83) 0%, rgba(0,0,0,0.40) 120%) #989898;
+	background-blend-mode: multiply,multiply;
 	margin-top:10px;
 	padding: 1% 0%;
 }
@@ -604,7 +607,10 @@ ul.nav li.active a:before {
 	position: relative;
 }
 #portfolio .portfolio-filter > li a:hover, #portfolio .portfolio-filter > li a.active {
-	background: #e73131;
+	/*background: #e73131;*/
+	/*background: linear-gradient(to bottom, rgb(38, 61, 52) 0%, rgba(6, 90, 206, 0.8) 100%), radial-gradient(at top center, rgb(42, 47, 83) 0%, rgba(0,0,0,0.40) 120%) #989898;
+	background-blend-mode: multiply,multiply;*/
+	background: #303765;
 	color: #fff;
 	-webkit-transition-duration: 0.5s;
 	-moz-transition-duration: 0.5s;
@@ -624,7 +630,9 @@ ul.nav li.active a:before {
 	margin-left: -10px;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #e73131 transparent transparent transparent;
+	border-color: #303765 transparent transparent transparent;
+	/*background: linear-gradient(to bottom, rgb(38, 61, 52) 0%, rgba(6, 90, 206, 0.8) 100%), radial-gradient(at top center, rgb(42, 47, 83) 0%, rgba(0,0,0,0.40) 120%) #989898;
+	background-blend-mode: multiply,multiply;*/
 }
 #portfolio .portfolio-filter > li:first-child a {
 	border-radius: 4px 0 0 4px;
