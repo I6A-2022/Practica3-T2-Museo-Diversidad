@@ -332,7 +332,7 @@ ul.nav li.active a:before {
 	line-height:27px;
 }
 .home-carousel-left, .home-carousel-right {
-	background-color: #e73131;
+	background-color: #303765;
 	color:#fff;
 	font-size: 32px;
 	height: 40px;
@@ -669,7 +669,7 @@ ul.nav li.active a:before {
 }
 #portfolio .portfolio-item:hover .portfolio-info i.fa {
 	font-size:30px;
-	color:#e73131;
+	color: rgba(163, 179, 196, 0.8);
 }
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
