@@ -271,8 +271,10 @@ ul.nav li.active a:before {
 .on {
 	/*background:rgba(0, 0, 0, 0.8);*/
 	/*background: radial-gradient(circle, rgba(63,94,251,0.3) 28%, rgba(252,70,107,1) 80%);*/
-
+	background: linear-gradient(to bottom, rgb(38, 61, 52) 0%, rgba(6, 90, 206, 0.8) 100%), radial-gradient(at top center, rgb(42, 47, 83) 0%, rgba(0,0,0,0.40) 120%) #989898;
+	background-blend-mode: multiply,multiply;
 	transition:all 0.3s;
+	opacity: 0.7;
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	-webkit-transition: all 0.3s;
