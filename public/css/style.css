@@ -965,7 +965,7 @@ a.btn-blg {
 	color:#666;
 }
 a.btn-blg:hover {
-	color:#e73131;
+	color: #e73131;
 	-webkit-transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
 	-ms-transition-duration: 0.3s;
@@ -1038,7 +1038,7 @@ a.btn-blg:hover {
 	color:#666;
 }
 .contact-sec-1 ul li a:hover {
-	color:#e73131;
+	color: #00aced;
 	-webkit-transition-duration: 0.3s;
 	-moz-transition-duration: 0.3s;
 	-ms-transition-duration: 0.3s;
