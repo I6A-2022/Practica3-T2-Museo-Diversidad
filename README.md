@@ -3,6 +3,8 @@
 
 
 
+![MUSE0PALACIO](https://user-images.githubusercontent.com/98972201/160887416-79cca2c3-ed54-4f4c-bb0c-ec8605c377c2.jpeg)
+
 
 Link de la pagina: https://museo-palaciodiversidad.web.app/
 <html>
@@ -40,9 +42,9 @@ Link de la pagina: https://museo-palaciodiversidad.web.app/
         </thead>
         <tbody>
             <tr>
-                <td align="center"><a href="https://github.com/agustin-ollin"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@agustin-ollin</sub></a> <br> </br> <h>N/C:L99227822</h> </td>
+                <td align="center"><a href="https://github.com/agustin-ollin"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@agustin-ollin</sub></a> <br> </br> <h>N/C:C16161312</h> </td>
                 <td align="center"><a href="https://github.com/EstherAtiny"><img src="https://avatars.githubusercontent.com/u/98972201?v=4" width="115" style="max-width: 100%;"><br><sub>@EstherAtiny</sub></a><br></br><h>N/C:19920168</h> </td>
-                <td align="center"><a href="https://github.com/Bryanluis20"><img src=https:https://avatars.githubusercontent.com/u/98972259?v=4" width="115" style="max-width: 100%;"><br><sub>@Bryanluis20</sub></a> <br> </br> <h>N/C:19920162</h> </td>       
+                <td align="center"><a href="https://github.com/Bryanluis20"><img src="https://avatars.githubusercontent.com/u/98972259?v=4" width="115" style="max-width: 100%;"><br><sub>@Bryanluis20</sub></a> <br> </br> <h>N/C:19920162</h> </td>       
  
 </tr>
 </tbody>
