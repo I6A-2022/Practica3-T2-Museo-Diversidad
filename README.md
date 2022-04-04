@@ -1,6 +1,6 @@
 # Practica3-T2-Museo-Diversidad
 ###### Pagina de museo diversidad del estado de Oaxaca, que muestra tanto cultura, arte, historias y pinturas. ######
-
+## Oaxaca  2022 ##
 
 
 ![MUSE0PALACIO](https://user-images.githubusercontent.com/98972201/160887416-79cca2c3-ed54-4f4c-bb0c-ec8605c377c2.jpeg)
